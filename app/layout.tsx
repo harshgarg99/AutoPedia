@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 import {Footer , Navbar} from '@/components';
 
 export const metadata: Metadata = {
-  title: 'Create Next App',
+  title: 'AutoPedia',
   description: 'Discover the best cars in the world.',
 }
 
